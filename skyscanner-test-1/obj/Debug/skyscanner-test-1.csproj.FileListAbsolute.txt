@@ -1,0 +1,5 @@
+C:\Dados\RMMSoftware\Projetos\Exemplos\Skyscanner_Test\test_1_c#\skyscanner-test-1\bin\Debug\skyscanner-test-1.exe.config
+C:\Dados\RMMSoftware\Projetos\Exemplos\Skyscanner_Test\test_1_c#\skyscanner-test-1\bin\Debug\skyscanner-test-1.exe
+C:\Dados\RMMSoftware\Projetos\Exemplos\Skyscanner_Test\test_1_c#\skyscanner-test-1\bin\Debug\skyscanner-test-1.pdb
+C:\Dados\RMMSoftware\Projetos\Exemplos\Skyscanner_Test\test_1_c#\skyscanner-test-1\obj\Debug\skyscanner-test-1.exe
+C:\Dados\RMMSoftware\Projetos\Exemplos\Skyscanner_Test\test_1_c#\skyscanner-test-1\obj\Debug\skyscanner-test-1.pdb
